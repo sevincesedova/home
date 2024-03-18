@@ -169,6 +169,15 @@ i:hover{
     opacity:0.5;
     transition: 0.5s ease;
 }
+.items img{
+    opacity:1;
+    transition: 0.5s ease;
+}
+.items img:hover{
+    opacity:0.5;
+    transition: 0.5s ease;
+}
+
 .bg_img_end{
     background-color: #EDEDED;
 }
